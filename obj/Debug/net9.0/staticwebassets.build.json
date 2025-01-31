@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8ZvTvTxHm/JumOSzj0etvMLOsspLBBIFRtmQHDaCDEM=",
+  "Hash": "4zEIiGrNZgZt6U/WmM8ZtGljAT8wJXxPyqKStRGwL3s=",
   "Source": "ziurtest",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "73brcydjse",
-      "Integrity": "Hato3tXvaVXsi5/+0ZCr73FpmE/nICIZI0AcN0VTqrY=",
+      "Fingerprint": "a6cs9onofe",
+      "Integrity": "XlrOYRO7D7SHkur0zXjZHbKbch2W17fiAWnpW6NZoyg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -4273,8 +4273,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "akvv8utzrk",
-      "Integrity": "ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0=",
+      "Fingerprint": "8s54nwfkal",
+      "Integrity": "SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ziurtest.pdb"
@@ -4294,8 +4294,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "hz5g8kzywr",
-      "Integrity": "s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss=",
+      "Fingerprint": "ffruzqd1tf",
+      "Integrity": "W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\webcil\\ziurtest.wasm"
@@ -5351,12 +5351,12 @@
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
     },
     {
-      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-akvv8utzrk.gz",
+      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-8s54nwfkal.gz",
       "SourceId": "ziurtest",
       "SourceType": "Computed",
       "ContentRoot": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ziurtest#[.{fingerprint=akvv8utzrk}]!.pdb.gz",
+      "RelativePath": "_framework/ziurtest#[.{fingerprint=8s54nwfkal}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5365,8 +5365,8 @@
       "RelatedAsset": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vl1wr59u9j",
-      "Integrity": "3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8=",
+      "Fingerprint": "6jb41solrf",
+      "Integrity": "YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.pdb"
@@ -5414,12 +5414,12 @@
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\mscorlib.wasm"
     },
     {
-      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-hz5g8kzywr.gz",
+      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-ffruzqd1tf.gz",
       "SourceId": "ziurtest",
       "SourceType": "Computed",
       "ContentRoot": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ziurtest#[.{fingerprint=hz5g8kzywr}]!.wasm.gz",
+      "RelativePath": "_framework/ziurtest#[.{fingerprint=ffruzqd1tf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5428,8 +5428,8 @@
       "RelatedAsset": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ki4bqm95qh",
-      "Integrity": "ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0=",
+      "Fingerprint": "8gst024ksz",
+      "Integrity": "SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.wasm"
@@ -5456,7 +5456,7 @@
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-73brcydjse.gz",
+      "Identity": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-a6cs9onofe.gz",
       "SourceId": "ziurtest",
       "SourceType": "Computed",
       "ContentRoot": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\",
@@ -5470,8 +5470,8 @@
       "RelatedAsset": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c5lgfc9i40",
-      "Integrity": "8AE4hAx8tg3MfOqzFdKkTkxJdaT8xZNIQXvFuUBWrM0=",
+      "Fingerprint": "1gh3e2m9x4",
+      "Integrity": "784krWNcW0/UiFDm+/bDUIwE8kAXnlt11E1SFuE6eOk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10747,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hato3tXvaVXsi5/+0ZCr73FpmE/nICIZI0AcN0VTqrY=\""
+          "Value": "\"XlrOYRO7D7SHkur0zXjZHbKbch2W17fiAWnpW6NZoyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,18 +10761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hato3tXvaVXsi5/+0ZCr73FpmE/nICIZI0AcN0VTqrY="
+          "Value": "sha256-XlrOYRO7D7SHkur0zXjZHbKbch2W17fiAWnpW6NZoyg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-73brcydjse.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-a6cs9onofe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081122739"
+          "Quality": "0.000081142486"
         }
       ],
       "ResponseHeaders": [
@@ -10782,15 +10782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12326"
+          "Value": "12323"
         },
         {
           "Name": "ETag",
-          "Value": "\"8AE4hAx8tg3MfOqzFdKkTkxJdaT8xZNIQXvFuUBWrM0=\""
+          "Value": "\"784krWNcW0/UiFDm+/bDUIwE8kAXnlt11E1SFuE6eOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 23:53:50 GMT"
+          "Value": "Fri, 31 Jan 2025 23:27:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Hato3tXvaVXsi5/+0ZCr73FpmE/nICIZI0AcN0VTqrY=\""
+          "Value": "W/\"XlrOYRO7D7SHkur0zXjZHbKbch2W17fiAWnpW6NZoyg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hato3tXvaVXsi5/+0ZCr73FpmE/nICIZI0AcN0VTqrY="
+          "Value": "sha256-XlrOYRO7D7SHkur0zXjZHbKbch2W17fiAWnpW6NZoyg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-73brcydjse.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7sfnilsuno-a6cs9onofe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10831,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12326"
+          "Value": "12323"
         },
         {
           "Name": "Content-Type",
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8AE4hAx8tg3MfOqzFdKkTkxJdaT8xZNIQXvFuUBWrM0=\""
+          "Value": "\"784krWNcW0/UiFDm+/bDUIwE8kAXnlt11E1SFuE6eOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 23:53:50 GMT"
+          "Value": "Fri, 31 Jan 2025 23:27:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8AE4hAx8tg3MfOqzFdKkTkxJdaT8xZNIQXvFuUBWrM0="
+          "Value": "sha256-784krWNcW0/UiFDm+/bDUIwE8kAXnlt11E1SFuE6eOk="
         }
       ]
     },
@@ -70603,7 +70603,7 @@
       ]
     },
     {
-      "Route": "_framework/ziurtest.akvv8utzrk.pdb",
+      "Route": "_framework/ziurtest.8s54nwfkal.pdb",
       "AssetFile": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70613,7 +70613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26372"
+          "Value": "22456"
         },
         {
           "Name": "Content-Type",
@@ -70621,11 +70621,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0=\""
+          "Value": "\"SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:57 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70635,7 +70635,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "akvv8utzrk"
+          "Value": "8s54nwfkal"
         },
         {
           "Name": "label",
@@ -70643,18 +70643,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0="
+          "Value": "sha256-SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI="
         }
       ]
     },
     {
-      "Route": "_framework/ziurtest.akvv8utzrk.pdb",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-akvv8utzrk.gz",
+      "Route": "_framework/ziurtest.8s54nwfkal.pdb",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-8s54nwfkal.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051682257"
+          "Quality": "0.000063215121"
         }
       ],
       "ResponseHeaders": [
@@ -70664,15 +70664,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19348"
+          "Value": "15818"
         },
         {
           "Name": "ETag",
-          "Value": "\"3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8=\""
+          "Value": "\"YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70692,13 +70692,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0=\""
+          "Value": "W/\"SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "akvv8utzrk"
+          "Value": "8s54nwfkal"
         },
         {
           "Name": "label",
@@ -70706,13 +70706,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0="
+          "Value": "sha256-SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI="
         }
       ]
     },
     {
-      "Route": "_framework/ziurtest.akvv8utzrk.pdb.gz",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-akvv8utzrk.gz",
+      "Route": "_framework/ziurtest.8s54nwfkal.pdb.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-8s54nwfkal.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70721,7 +70721,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19348"
+          "Value": "15818"
         },
         {
           "Name": "Content-Type",
@@ -70729,11 +70729,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8=\""
+          "Value": "\"YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70751,7 +70751,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "akvv8utzrk"
+          "Value": "8s54nwfkal"
         },
         {
           "Name": "label",
@@ -70759,12 +70759,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8="
+          "Value": "sha256-YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho="
         }
       ]
     },
     {
-      "Route": "_framework/ziurtest.hz5g8kzywr.wasm",
+      "Route": "_framework/ziurtest.ffruzqd1tf.wasm",
       "AssetFile": "D:\\blazor\\ziurtest\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ziurtest.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70774,7 +70774,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24341"
+          "Value": "18709"
         },
         {
           "Name": "Content-Type",
@@ -70782,11 +70782,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss=\""
+          "Value": "\"W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:57 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70796,7 +70796,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hz5g8kzywr"
+          "Value": "ffruzqd1tf"
         },
         {
           "Name": "label",
@@ -70804,18 +70804,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss="
+          "Value": "sha256-W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI="
         }
       ]
     },
     {
-      "Route": "_framework/ziurtest.hz5g8kzywr.wasm",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-hz5g8kzywr.gz",
+      "Route": "_framework/ziurtest.ffruzqd1tf.wasm",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-ffruzqd1tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000097002619"
+          "Quality": "0.000118175372"
         }
       ],
       "ResponseHeaders": [
@@ -70825,15 +70825,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10308"
+          "Value": "8461"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0=\""
+          "Value": "\"SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70853,13 +70853,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss=\""
+          "Value": "W/\"W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hz5g8kzywr"
+          "Value": "ffruzqd1tf"
         },
         {
           "Name": "label",
@@ -70867,13 +70867,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss="
+          "Value": "sha256-W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI="
         }
       ]
     },
     {
-      "Route": "_framework/ziurtest.hz5g8kzywr.wasm.gz",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-hz5g8kzywr.gz",
+      "Route": "_framework/ziurtest.ffruzqd1tf.wasm.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-ffruzqd1tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70882,7 +70882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10308"
+          "Value": "8461"
         },
         {
           "Name": "Content-Type",
@@ -70890,11 +70890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0=\""
+          "Value": "\"SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70912,7 +70912,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hz5g8kzywr"
+          "Value": "ffruzqd1tf"
         },
         {
           "Name": "label",
@@ -70920,7 +70920,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0="
+          "Value": "sha256-SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M="
         }
       ]
     },
@@ -70935,7 +70935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26372"
+          "Value": "22456"
         },
         {
           "Name": "Content-Type",
@@ -70943,11 +70943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0=\""
+          "Value": "\"SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:57 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70957,18 +70957,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0="
+          "Value": "sha256-SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI="
         }
       ]
     },
     {
       "Route": "_framework/ziurtest.pdb",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-akvv8utzrk.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-8s54nwfkal.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051682257"
+          "Quality": "0.000063215121"
         }
       ],
       "ResponseHeaders": [
@@ -70978,15 +70978,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19348"
+          "Value": "15818"
         },
         {
           "Name": "ETag",
-          "Value": "\"3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8=\""
+          "Value": "\"YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71006,19 +71006,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0=\""
+          "Value": "W/\"SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ioH1osuduO9fbiyERXmDU31iyvbZ75iYgbqcyOTi/d0="
+          "Value": "sha256-SN3R1H0W0YtNdMa12shrqVG6IriB3P94o0JbxHFw0nI="
         }
       ]
     },
     {
       "Route": "_framework/ziurtest.pdb.gz",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-akvv8utzrk.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\6yz1gv5gi4-8s54nwfkal.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71027,7 +71027,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19348"
+          "Value": "15818"
         },
         {
           "Name": "Content-Type",
@@ -71035,11 +71035,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8=\""
+          "Value": "\"YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71057,7 +71057,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3fC3olFdIi3zgU2m752vUWs+abbr7+l+/ywPrRDi/g8="
+          "Value": "sha256-YmQCJfQSEy9HJNH4okg0ojxFm6gGmqg7dfFyqXfDKho="
         }
       ]
     },
@@ -71072,7 +71072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24341"
+          "Value": "18709"
         },
         {
           "Name": "Content-Type",
@@ -71080,11 +71080,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss=\""
+          "Value": "\"W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:57 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71094,18 +71094,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss="
+          "Value": "sha256-W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI="
         }
       ]
     },
     {
       "Route": "_framework/ziurtest.wasm",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-hz5g8kzywr.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-ffruzqd1tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000097002619"
+          "Quality": "0.000118175372"
         }
       ],
       "ResponseHeaders": [
@@ -71115,15 +71115,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10308"
+          "Value": "8461"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0=\""
+          "Value": "\"SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71143,19 +71143,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss=\""
+          "Value": "W/\"W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-s/Ui3dPXb/Ovnh28ayj7mUBi+G0LMD0QpNSiIk/58ss="
+          "Value": "sha256-W6F2HCPshiclMXLP2EePOYOXA1U3rUgs/JkK0nVoAlI="
         }
       ]
     },
     {
       "Route": "_framework/ziurtest.wasm.gz",
-      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-hz5g8kzywr.gz",
+      "AssetFile": "D:\\blazor\\ziurtest\\obj\\Debug\\net9.0\\compressed\\7r3xjuo6ij-ffruzqd1tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71164,7 +71164,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10308"
+          "Value": "8461"
         },
         {
           "Name": "Content-Type",
@@ -71172,11 +71172,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0=\""
+          "Value": "\"SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 00:18:58 GMT"
+          "Value": "Fri, 31 Jan 2025 23:36:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71194,7 +71194,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZNIWLSF/4zfX1JaQ6l5PTN8FolkbDjwolT7wmPPxoc0="
+          "Value": "sha256-SL1LpL8Ux6UrjUZ6Z+8I6c3I3Lgiqs/V6/tYW+JTq6M="
         }
       ]
     },
@@ -71983,7 +71983,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72036,7 +72036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72073,7 +72073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72120,7 +72120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72181,7 +72181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72226,7 +72226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 21:41:05 GMT"
+          "Value": "Fri, 31 Jan 2025 23:07:55 GMT"
         },
         {
           "Name": "Cache-Control",

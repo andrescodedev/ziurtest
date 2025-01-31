@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ziurtest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd38b28d7c8a447ff5ef6d08e02782d68f433d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ziurtest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ziurtest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
