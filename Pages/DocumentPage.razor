@@ -1,0 +1,51 @@
+@page "/document"
+@inject IDocumentService documentService;
+
+<PageTitle>Documents Page</PageTitle>
+
+<h1>Documents</h1>
+
+<p>Here, will show the result request to ziur software api</p>
+
+@if (documents?.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th aria-label="Temperature in Celsius">Temp. (C)</th>
+                <th aria-label="Temperature in Farenheit">Temp. (F)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var document in documents)
+            {
+                <tr>
+                    <td>@document.Codigo</td>
+                    <td>@document.Descripcion</td>
+                    <td>@document.VActiva</td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p><em>Loading...</em></p>
+}
+
+@code {
+    private List<DocumentModel>? documents;
+
+    protected override async Task OnInitializedAsync()
+    {
+        documents = await GetDocuments();
+    }
+
+    private async Task<List<DocumentModel>?> GetDocuments()
+    {
+        return await documentService.GetDocuments();
+    }
+}
